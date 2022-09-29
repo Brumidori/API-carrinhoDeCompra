@@ -54,8 +54,6 @@ No Terminal/Console:
 	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
 </ol>
 
-<a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view?usp=sharing"> 🚀 Collection Sacola API - Postman</a><br>
-
 <img src="https://i.imgur.com/UBHcWKt.png" alt="Sacola API Swagger UI">
 
 <h3>Tecnologias Utilizadas</h3>
